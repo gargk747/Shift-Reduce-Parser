@@ -1,4 +1,4 @@
-# Shift-reduce-parsing-algorithm-using-python3
+# Shift-reduce-parsing-algorithm
 
 **Shift Reduce** parser attempts for the construction of parse in a similar manner as done in bottom up parsing i.e. the parse tree is constructed from leaves(bottom) to the root(up). A more general form of shift reduce parser is LR parser.
 This parser requires some data structures i.e.
